@@ -68,7 +68,7 @@ const Home = () => {
       </div>
       </div>
       <div className='relative z-10 mt-4'>
-       <a href="my-M.saif shahid-CV (1)" target='_blank'> <button className='bg-yellow-600 text-white font-semibold py-2 px-6 rounded-lg border-2 border-black-600 hover:bg-white hover:text-green-600 transition duration-300 ease-in-out hover:border-green-600 shadow-lg hover:shadow-2xl transform hover:scale-105"'>Download Resume</button></a>
+       <a href="my-M.saif shahid-CV (1).docx" target='_blank'> <button className='bg-yellow-600 text-white font-semibold py-2 px-6 rounded-lg border-2 border-black-600 hover:bg-white hover:text-green-600 transition duration-300 ease-in-out hover:border-green-600 shadow-lg hover:shadow-2xl transform hover:scale-105"'>Download Resume</button></a>
     </div>
     </div>
     

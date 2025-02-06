@@ -64,7 +64,7 @@ const Home = () => {
       </div>
       </div>
       <div className='md:w-1/2 md:ml-40  md:mt-16 mt-8 order-1'>
-      <img src="graduate.jpg" className='rounded-full w-[450px] h-[450px] ' alt="not found"  />
+      <img src="my.jpg" className='rounded-full w-[450px] h-[450px] ' alt="not found"  />
       </div>
       </div>
       <div className='relative z-10 mt-4'>
